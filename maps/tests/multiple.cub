@@ -1,0 +1,14 @@
+NO ./sprites/doom/wall1.png
+EA ./sprites/doom/wall2.png
+SO ./sprites/doom/wall3.png
+WE ./sprites/doom/wall4.png
+SO ./sprites/doom/wall3.png
+
+F 220,100,0
+C 225,30,0
+
+11111
+11011
+10001
+10001
+11111

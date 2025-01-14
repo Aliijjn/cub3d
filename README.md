@@ -25,7 +25,7 @@ For this project, we had to build [a raycaster](https://lodev.org/cgtutor/raycas
 - Rendering the game
 - Rendering the minimap. 
 
-### Parsing ⚙️
+### Parsing 
 Our map consists of a grid of squares, which can be open '0', a wall '1' or nothing ' '. To protect the player from staring into nothingness, all open tiles should be surrounded by either more open tiles or a wall. There should also be a player spawn, which is indicated by the direction the player is looking at.
 An example of a valid map, where the player starts of looking north:
 ```

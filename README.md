@@ -52,10 +52,16 @@ WE ./sprites/wall4.png
 ```
 
 ### Movement
-These are all the inputs our cub3d uses:
+These are all the inputs our game uses:
+
 WASD:             Move the player
+
 Shift:            Sprint
+
 Escape:           Quit the game
+
 Left/right arrow: Rotates camera
+
 Tab:              Toggles mouse on/off
+
 Mouse:            Rotates camera

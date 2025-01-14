@@ -1,4 +1,4 @@
-# cub3d_42
+# cub3d
 
 ## What I learned from this project
 - How raycasting works

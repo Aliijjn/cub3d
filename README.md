@@ -1,13 +1,13 @@
-# cub3d
+# cub3d_42
 
-## What I learned from this project
+## What I learned from this project: ✅
 - How raycasting works
 - Rendering 3d environments
 - How to write optimised code
 
     (1920x1080 @ 60fps on an i5 7500)
 
-## Images
+## Images 📷
 A screenshot of the player in a maze, inspired by the style of doom
 ![image](https://github.com/user-attachments/assets/b1a8fd58-7e51-4f5c-93f4-1c4e2244dfa4)
 
@@ -18,7 +18,7 @@ This was accomplished without using any sprites.
 
 ![image](https://github.com/user-attachments/assets/6acde4fd-f864-4583-9ee6-0dfc6886a037)
 
-## Project Goal
+## Project Goal 🎯
 For this project, we had to build [a raycaster](https://lodev.org/cgtutor/raycasting.html) in C, where the player is able to move and look around a 3D world. This is accomplished with the help of MLX42 to manage i/o and to convert PNGs to a 2D int array. Everything else is made from scratch, such as:
 - Parsing a map file
 - Handeling movement
@@ -53,9 +53,9 @@ WE ./sprites/wall4.png
 
 ### Movement
 These are all the inputs our cub3d uses:
-- WASD:             Move the player
-- Shift:            Sprint
-- Escape:           Quit the game
-- Left/right arrow: Rotates camera
-- Tab:              Toggles mouse on/off
-- Mouse:            Rotates camera
+WASD:             Move the player
+Shift:            Sprint
+Escape:           Quit the game
+Left/right arrow: Rotates camera
+Tab:              Toggles mouse on/off
+Mouse:            Rotates camera

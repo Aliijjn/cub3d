@@ -29,10 +29,10 @@ For this project, we had to build [a raycaster](https://lodev.org/cgtutor/raycas
 Our map consists of a grid of squares, which can be open '0', a wall '1' or nothing ' '. To protect the player from staring into nothingness, all open tiles should be surrounded by either more open tiles or a wall. There should also be a player spawn, which is indicated by the direction the player is looking at.
 An example of a valid map, where the player starts of looking north:
 ```
-11111
-10001
-10N01
-11111
+111111
+100001
+10N001
+111111
 ```
 
 Above the map, you'll need to set the colour of the floor and ceiling with a custom RGB value.
